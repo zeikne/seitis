@@ -1,4 +1,4 @@
-# Seitis - NPC Inteligente com IA para Roblox
+## Seitis - NPC Inteligente com IA para Roblox
 
 **by zeikne**
 
@@ -6,7 +6,7 @@ AINDA EM TESTE, não ta 100%
 
 ---
 
-## Como o jogador conversa
+### Como o jogador conversa
 
 1. **Clicar no NPC** → aparece "Falar com Seitis"
 2. **Digitar no chat**:
