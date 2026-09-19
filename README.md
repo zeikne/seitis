@@ -2,16 +2,7 @@
 
 **by zeikne**
 
-NPC com inteligência artificial usando a API do **Groq**.  
-O jogador pode conversar com ele pelo chat ou clicando no NPC.
-
----
-
-## Arquivos
-
-- `Config.lua`     → Configuração (API Key + personalidade)
-- `SeitisAI.lua`   → Script principal do NPC
-- `ComoUsar.md`    → Tutorial de instalação
+AINDA EM TESTE, não ta 100%  
 
 ---
 
