@@ -1,6 +1,6 @@
 ## Seitis - NPC Inteligente com IA para Roblox
 
-**by zeikne**
+**por zeikne**
 
 AINDA EM TESTE, não ta 100%  
 
